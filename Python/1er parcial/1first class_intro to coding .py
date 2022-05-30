@@ -1,0 +1,5 @@
+print('Hey everyone')
+print('My name is Maripili')
+print('My grade and group is: 9D')
+print('And I dont have favorite food')
+print('I want to share that I have a dog')
